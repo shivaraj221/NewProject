@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class QuadraticEquationSolver {
+public class Solution{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the coefficient of x^2: ");
